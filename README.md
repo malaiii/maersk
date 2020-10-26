@@ -8,7 +8,8 @@ Marsek
 └── js
     └── scripts.js      // Scripts for create a cards in the DOM.
     └── utils.js        // Scripts for utility functions.
-└── index.html          // Main index file for load scripts and styles and design the module
+└── index.html    
+└── light-house-performace-report         // Performance report developed by Light House tool
 ```
 
 How it works
